@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="100" viewBox="0 0 900 100" role="img" aria-label="03 — selected work">
+<style>
+.fg{fill:#0b0d10} .mut{fill:#5b636e} .dim{fill:#9aa3ad} .acc{fill:#e5484d}
+.m{font-family:ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace} .s{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif}
+.ln{stroke:#d8dde3;stroke-width:1;fill:none} .lnf{stroke:#0b0d10;stroke-width:1;fill:none}
+.da{stroke:#e5484d;stroke-width:1.4;fill:none;stroke-dasharray:3 5;animation:f 1.8s linear infinite}
+.dl{stroke:#9aa3ad;stroke-width:1;fill:none;stroke-dasharray:2 4;animation:f 3s linear infinite}
+.box{fill:#f4f6f8;stroke:#d8dde3;stroke-width:1} .boxa{fill:#f4f6f8;stroke:#e5484d;stroke-width:1.4}
+.p{animation:p 2.2s ease-in-out infinite}
+@keyframes f{to{stroke-dashoffset:-16}} @keyframes p{0%,100%{opacity:1}50%{opacity:.25}}
+</style>
+<rect width="900" height="100" fill="#ffffff"/>
+<text x="40" y="62" class="fg s" font-size="44" font-weight="700" letter-spacing="-1" text-anchor="start">03</text>
+<text x="104" y="60" class="mut m" font-size="15" font-weight="400" letter-spacing="1" text-anchor="start">— selected work</text>
+<line x1="40" x2="860" y1="82" y2="82" class="ln"/>
+</svg>

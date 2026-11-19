@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="358" viewBox="0 0 900 358" role="img" aria-label="header">
+<style>
+.fg{fill:#0b0d10} .mut{fill:#5b636e} .dim{fill:#9aa3ad} .acc{fill:#e5484d}
+.m{font-family:ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace} .s{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif}
+.ln{stroke:#d8dde3;stroke-width:1;fill:none} .lnf{stroke:#0b0d10;stroke-width:1;fill:none}
+.da{stroke:#e5484d;stroke-width:1.4;fill:none;stroke-dasharray:3 5;animation:f 1.8s linear infinite}
+.dl{stroke:#9aa3ad;stroke-width:1;fill:none;stroke-dasharray:2 4;animation:f 3s linear infinite}
+.box{fill:#f4f6f8;stroke:#d8dde3;stroke-width:1} .boxa{fill:#f4f6f8;stroke:#e5484d;stroke-width:1.4}
+.p{animation:p 2.2s ease-in-out infinite}
+@keyframes f{to{stroke-dashoffset:-16}} @keyframes p{0%,100%{opacity:1}50%{opacity:.25}}
+</style>
+<rect width="900" height="358" fill="#ffffff"/>
+<text x="40" y="56" class="mut m" font-size="11" font-weight="400" letter-spacing="2.2" text-anchor="start">ARNAV PARASHAR / README.md</text>
+<text x="860" y="56" class="mut m" font-size="11" font-weight="400" letter-spacing="2.2" text-anchor="end">v2026.11</text>
+<line x1="40" x2="860" y1="70" y2="70" class="lnf"/>
+<text x="37" y="150" class="fg s" font-size="64" font-weight="700" letter-spacing="-2" text-anchor="start">Arnav Parashar</text>
+<text x="40" y="192" class="mut s" font-size="19" font-weight="400" letter-spacing="0" text-anchor="start">GenAI &amp; AI systems engineer. I build agents, retrieval</text>
+<text x="40" y="218" class="mut s" font-size="19" font-weight="400" letter-spacing="0" text-anchor="start">pipelines, and the evals that prove they work.</text>
+<text x="40" y="264" class="dim m" font-size="10" font-weight="400" letter-spacing="2" text-anchor="start">ROLE</text>
+<text x="40" y="284" class="fg m" font-size="11.5" font-weight="400" letter-spacing="0" text-anchor="start">GenAI &amp; AI Systems Eng.</text>
+<text x="250" y="264" class="dim m" font-size="10" font-weight="400" letter-spacing="2" text-anchor="start">NEXT</text>
+<text x="250" y="284" class="fg m" font-size="11.5" font-weight="400" letter-spacing="0" text-anchor="start">AI R&amp;D Engineer @ EY</text>
+<text x="460" y="264" class="dim m" font-size="10" font-weight="400" letter-spacing="2" text-anchor="start">PREV</text>
+<text x="460" y="284" class="fg m" font-size="11.5" font-weight="400" letter-spacing="0" text-anchor="start">GenAI Intern @ Titan</text>
+<text x="670" y="264" class="dim m" font-size="10" font-weight="400" letter-spacing="2" text-anchor="start">BASE</text>
+<text x="670" y="284" class="fg m" font-size="11.5" font-weight="400" letter-spacing="0" text-anchor="start">VIT Vellore · B.Tech IT</text>
+<line x1="40" x2="860" y1="306" y2="306" class="ln"/>
+<circle cx="46" cy="330" r="4" class="acc p"/>
+<text x="58" y="334" class="fg m" font-size="11" font-weight="400" letter-spacing="2" text-anchor="start">STATUS — SHIPPING AGENTIC SYSTEMS</text>
+<text x="860" y="334" class="mut m" font-size="11" font-weight="400" letter-spacing="2" text-anchor="end">FIG. 00</text>
+</svg>

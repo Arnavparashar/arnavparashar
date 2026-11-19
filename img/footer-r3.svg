@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="100" viewBox="0 0 900 100" role="img" aria-label="footer">
+<style>
+.fg{fill:#0b0d10} .mut{fill:#5b636e} .dim{fill:#9aa3ad} .acc{fill:#e5484d}
+.m{font-family:ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace} .s{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif}
+.ln{stroke:#d8dde3;stroke-width:1;fill:none} .lnf{stroke:#0b0d10;stroke-width:1;fill:none}
+.da{stroke:#e5484d;stroke-width:1.4;fill:none;stroke-dasharray:3 5;animation:f 1.8s linear infinite}
+.dl{stroke:#9aa3ad;stroke-width:1;fill:none;stroke-dasharray:2 4;animation:f 3s linear infinite}
+.box{fill:#f4f6f8;stroke:#d8dde3;stroke-width:1} .boxa{fill:#f4f6f8;stroke:#e5484d;stroke-width:1.4}
+.p{animation:p 2.2s ease-in-out infinite}
+@keyframes f{to{stroke-dashoffset:-16}} @keyframes p{0%,100%{opacity:1}50%{opacity:.25}}
+</style>
+<rect width="900" height="100" fill="#ffffff"/>
+<line x1="40" x2="860" y1="20" y2="20" class="lnf"/>
+<circle cx="46" cy="52" r="4" class="acc p"/>
+<text x="58" y="56" class="fg m" font-size="11" font-weight="400" letter-spacing="2.2" text-anchor="start">STATUS — BUILDING</text>
+<text x="58" y="76" class="mut m" font-size="11" font-weight="400" letter-spacing="0" text-anchor="start">open to conversations about agents, evals, and enterprise AI</text>
+<text x="860" y="56" class="fg m" font-size="11" font-weight="400" letter-spacing="0.5" text-anchor="end">linkedin.com/in/arnav-parashar</text>
+<text x="860" y="76" class="mut m" font-size="11" font-weight="400" letter-spacing="0.5" text-anchor="end">© 2026 Arnav Parashar</text>
+</svg>

@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="758" viewBox="0 0 900 758" role="img" aria-label="projects">
+<style>
+.fg{fill:#f0f3f6} .mut{fill:#9198a1} .dim{fill:#5c6570} .acc{fill:#ff5a5f}
+.m{font-family:ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace} .s{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif}
+.ln{stroke:#2a313b;stroke-width:1;fill:none} .lnf{stroke:#f0f3f6;stroke-width:1;fill:none}
+.da{stroke:#ff5a5f;stroke-width:1.4;fill:none;stroke-dasharray:3 5;animation:f 1.8s linear infinite}
+.dl{stroke:#5c6570;stroke-width:1;fill:none;stroke-dasharray:2 4;animation:f 3s linear infinite}
+.box{fill:#151b23;stroke:#2a313b;stroke-width:1} .boxa{fill:#151b23;stroke:#ff5a5f;stroke-width:1.4}
+.p{animation:p 2.2s ease-in-out infinite}
+@keyframes f{to{stroke-dashoffset:-16}} @keyframes p{0%,100%{opacity:1}50%{opacity:.25}}
+</style>
+<rect width="900" height="758" fill="#0d1117"/>
+<text x="40" y="36" class="dim m" font-size="12" font-weight="400" letter-spacing="0" text-anchor="start">01</text>
+<text x="80" y="36" class="fg s" font-size="18" font-weight="600" letter-spacing="-0.3" text-anchor="start">Owl Harness</text>
+<text x="860" y="36" class="mut m" font-size="11" font-weight="400" letter-spacing="1.5" text-anchor="end">2026</text>
+<text x="80" y="60" class="mut s" font-size="13.5" font-weight="400" letter-spacing="0" text-anchor="start">Benchmarks LLMs and classifiers on your own data under one evaluation standard:</text>
+<text x="80" y="80" class="mut s" font-size="13.5" font-weight="400" letter-spacing="0" text-anchor="start">hashed datasets, deterministic runs, confidence intervals, significance tests.</text>
+<text x="80" y="104" class="dim m" font-size="10" font-weight="400" letter-spacing="1.6" text-anchor="start">PYTHON · OLLAMA · HUGGING FACE · OPENAI-COMPATIBLE</text>
+<line x1="40" x2="860" y1="124" y2="124" class="ln"/>
+<text x="40" y="150" class="dim m" font-size="12" font-weight="400" letter-spacing="0" text-anchor="start">02</text>
+<text x="80" y="150" class="fg s" font-size="18" font-weight="600" letter-spacing="-0.3" text-anchor="start">Guardian</text>
+<text x="860" y="150" class="mut m" font-size="11" font-weight="400" letter-spacing="1.5" text-anchor="end">2026</text>
+<text x="80" y="174" class="mut s" font-size="13.5" font-weight="400" letter-spacing="0" text-anchor="start">Front end for an AI-assisted security operations center: alert triage, live</text>
+<text x="80" y="194" class="mut s" font-size="13.5" font-weight="400" letter-spacing="0" text-anchor="start">agentic investigations, entity graphs, and human-in-the-loop approvals.</text>
+<text x="80" y="218" class="dim m" font-size="10" font-weight="400" letter-spacing="1.6" text-anchor="start">TYPESCRIPT · REACT · VITE · TAILWIND</text>
+<line x1="40" x2="860" y1="238" y2="238" class="ln"/>
+<text x="40" y="264" class="dim m" font-size="12" font-weight="400" letter-spacing="0" text-anchor="start">03</text>
+<text x="80" y="264" class="fg s" font-size="18" font-weight="600" letter-spacing="-0.3" text-anchor="start">Persona-Driven Document Intelligence</text>
+<text x="860" y="264" class="mut m" font-size="11" font-weight="400" letter-spacing="1.5" text-anchor="end">2025</text>
+<text x="80" y="288" class="mut s" font-size="13.5" font-weight="400" letter-spacing="0" text-anchor="start">Adobe India Hackathon 2025. Ranks the PDF sections that matter for a</text>
+<text x="80" y="308" class="mut s" font-size="13.5" font-weight="400" letter-spacing="0" text-anchor="start">persona and a job-to-be-done, using sentence-transformer embeddings.</text>
+<text x="80" y="332" class="dim m" font-size="10" font-weight="400" letter-spacing="1.6" text-anchor="start">PYTHON · SENTENCE-TRANSFORMERS · PYMUPDF</text>
+<line x1="40" x2="860" y1="352" y2="352" class="ln"/>
+<text x="40" y="378" class="dim m" font-size="12" font-weight="400" letter-spacing="0" text-anchor="start">04</text>
+<text x="80" y="378" class="fg s" font-size="18" font-weight="600" letter-spacing="-0.3" text-anchor="start">MediAI</text>
+<text x="860" y="378" class="mut m" font-size="11" font-weight="400" letter-spacing="1.5" text-anchor="end">2025</text>
+<text x="80" y="402" class="mut s" font-size="13.5" font-weight="400" letter-spacing="0" text-anchor="start">Predicts likely conditions from symptoms, suggests medicines, and tracks</text>
+<text x="80" y="422" class="mut s" font-size="13.5" font-weight="400" letter-spacing="0" text-anchor="start">health goals on a personal dashboard.</text>
+<text x="80" y="446" class="dim m" font-size="10" font-weight="400" letter-spacing="1.6" text-anchor="start">PYTHON · FLASK · SCIKIT-LEARN · SQLITE</text>
+<line x1="40" x2="860" y1="466" y2="466" class="ln"/>
+<text x="40" y="492" class="dim m" font-size="12" font-weight="400" letter-spacing="0" text-anchor="start">05</text>
+<text x="80" y="492" class="fg s" font-size="18" font-weight="600" letter-spacing="-0.3" text-anchor="start">StockLens</text>
+<text x="860" y="492" class="mut m" font-size="11" font-weight="400" letter-spacing="1.5" text-anchor="end">2025</text>
+<text x="80" y="516" class="mut s" font-size="13.5" font-weight="400" letter-spacing="0" text-anchor="start">Stock analysis dashboard with moving averages, RSI, and multi-ticker comparison.</text>
+<text x="80" y="540" class="dim m" font-size="10" font-weight="400" letter-spacing="1.6" text-anchor="start">PYTHON · STREAMLIT · PANDAS</text>
+<line x1="40" x2="860" y1="560" y2="560" class="ln"/>
+<text x="40" y="586" class="dim m" font-size="12" font-weight="400" letter-spacing="0" text-anchor="start">06</text>
+<text x="80" y="586" class="fg s" font-size="18" font-weight="600" letter-spacing="-0.3" text-anchor="start">Merchant Churn Analytics</text>
+<text x="860" y="586" class="mut m" font-size="11" font-weight="400" letter-spacing="1.5" text-anchor="end">2025</text>
+<text x="80" y="610" class="mut s" font-size="13.5" font-weight="400" letter-spacing="0" text-anchor="start">Scores merchant churn risk so retention teams can act before it happens.</text>
+<text x="80" y="634" class="dim m" font-size="10" font-weight="400" letter-spacing="1.6" text-anchor="start">PYTHON · SCIKIT-LEARN · STREAMLIT</text>
+<line x1="40" x2="860" y1="654" y2="654" class="ln"/>
+<text x="40" y="680" class="dim m" font-size="12" font-weight="400" letter-spacing="0" text-anchor="start">07</text>
+<text x="80" y="680" class="fg s" font-size="18" font-weight="600" letter-spacing="-0.3" text-anchor="start">IoT Water Quality Monitor</text>
+<text x="860" y="680" class="mut m" font-size="11" font-weight="400" letter-spacing="1.5" text-anchor="end">2025</text>
+<text x="80" y="704" class="mut s" font-size="13.5" font-weight="400" letter-spacing="0" text-anchor="start">Real-time water-quality sensing with a cloud dashboard.</text>
+<text x="80" y="728" class="dim m" font-size="10" font-weight="400" letter-spacing="1.6" text-anchor="start">ARDUINO · RASPBERRY PI · ZIGBEE · PYTHON</text>
+<line x1="40" x2="860" y1="748" y2="748" class="ln"/>
+</svg>
